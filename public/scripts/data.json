@@ -1,0 +1,40 @@
+{
+    "es": [
+        {
+            "solutions" : "Soluciones",
+            "services" : "Servicios",
+            "tecnologies" : "Tecnologias",
+            "about_us": "Acerca de",
+            "contact" : "Contacto",
+            "blog" : "Blog",
+            "papermaking_equip" :"Equipos de Fabricación de Papel",
+            "pm_auxilieres" : "PM Auxiliares",
+            "paper_pm_chemicals" : "PapelPM Químicos",
+            "paper_converting" : "Conversión de papel",
+            "services_pm" : "Servicios de PM",
+            "pm_specialized_engineering" : "PM Ingeniería Especializada"
+        }
+    ],
+    "en": [
+        {
+            "solutions" : "Solutions",
+            "services" : "Services",
+            "tecnologies" : "Tecnologies",
+            "about_us": "About Us",
+            "contact" : "Contact",
+            "blog" : "Blog",
+            "papermaking_equip" :"Papermaking Equipment",
+            "pm_auxilieres" : "PM Auxilieries",
+            "paper_pm_chemicals" : "PaperPM Chemicals",
+            "paper_converting" : "Paper Converting",
+            "services_pm" : "Services PM",
+            "pm_specialized_engineering" : "PM Specialized Engineering"
+
+        }
+    ],
+    "pt": [
+        {
+
+        }
+    ]
+}
