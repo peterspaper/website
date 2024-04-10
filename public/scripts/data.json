@@ -7,12 +7,26 @@
             "about_us": "Acerca de",
             "contact" : "Contacto",
             "blog" : "Blog",
+            
             "papermaking_equip" :"Equipos de Fabricación de Papel",
             "pm_auxilieres" : "PM Auxiliares",
             "paper_pm_chemicals" : "PapelPM Químicos",
             "paper_converting" : "Conversión de papel",
             "services_pm" : "Servicios de PM",
-            "pm_specialized_engineering" : "PM Ingeniería Especializada"
+            "pm_specialized_engineering" : "PM Ingeniería Especializada",
+
+            "runtech": "Runtech",
+            "papermachine_components": "Componentes de la máquina de papel",
+
+            "qualifiber": "Qualifiber",
+            "stock_prep_complete": "Stock Prep Complete",
+
+            "progressive_energy_systems" : "Progressive Energy Systems",
+            "steam_and_heat_systems" : "Steam and Heat systems",
+
+            "aurelia" : "Aurelia",
+            "on_line_qcs_for_physical_properties" : "on line QCS for physical properties"
+            
         }
     ],
     "en": [
